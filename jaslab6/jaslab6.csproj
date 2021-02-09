@@ -88,6 +88,9 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="DataAccess.cs" />
+        <Compile Include="Domain.cs" />
+        <Compile Include="NHibernateHelper.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

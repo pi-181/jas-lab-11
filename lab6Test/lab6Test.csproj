@@ -118,9 +118,6 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="DataAccess.cs" />
-        <Compile Include="Domain.cs" />
-        <Compile Include="NHibernateHelper.cs" />
         <Compile Include="TestCabinDAO.cs" />
         <Compile Include="TestPassengerDAO.cs" />
         <Compile Include="TestGenericDAO.cs" />
