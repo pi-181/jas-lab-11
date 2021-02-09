@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jaslab6", "jaslab6\jaslab6.csproj", "{345A3C27-3B59-468E-BFE1-997C87CC63DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6Test", "lab6Test\lab6Test.csproj", "{286FC44C-A62A-4EE8-AB78-FC0B1ACBC1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345A3C27-3B59-468E-BFE1-997C87CC63DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345A3C27-3B59-468E-BFE1-997C87CC63DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345A3C27-3B59-468E-BFE1-997C87CC63DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345A3C27-3B59-468E-BFE1-997C87CC63DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286FC44C-A62A-4EE8-AB78-FC0B1ACBC1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286FC44C-A62A-4EE8-AB78-FC0B1ACBC1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286FC44C-A62A-4EE8-AB78-FC0B1ACBC1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286FC44C-A62A-4EE8-AB78-FC0B1ACBC1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
